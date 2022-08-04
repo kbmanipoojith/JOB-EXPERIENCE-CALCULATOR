@@ -5,7 +5,10 @@ body {
   font-family: "Gotu", sans-serif;
   color: white;
 }
-
+text{
+text-align:right;
+margin-top:1000px;
+}
 #AppBody {
   width: 90%;
   align-self: center !important;
