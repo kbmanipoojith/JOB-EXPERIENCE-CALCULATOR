@@ -48,7 +48,7 @@ function calculateDiff() {
   }
 
   output.innerHTML =
-    "TotalYearsOfExperience: " +
+    "Total Years Of Experience: " +
     " " +
     Number(diff.getUTCFullYear() - 1970) +
     " Years " +
