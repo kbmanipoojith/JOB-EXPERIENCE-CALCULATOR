@@ -34,7 +34,7 @@ function calculateDiff() {
   if (date_1 == date_2) {
     output.innerHTML =
       "<h2>Wooo... Happy Anniversary! <br>Stanger</h2> " +
-      "Total Years Of Experience: " +
+      "TotalYearsOfExperience: " +
       " " +
       Number(diff.getUTCFullYear() - 1970) +
       " Years " +
@@ -48,7 +48,7 @@ function calculateDiff() {
   }
 
   output.innerHTML =
-    "Total Years Of Experience: " +
+    "TotalYearsOfExperience: " +
     " " +
     Number(diff.getUTCFullYear() - 1970) +
     " Years " +
